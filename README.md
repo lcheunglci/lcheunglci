@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on an electron nuxt project
-- 🌱 I’m currently learning React and .NET TDD
+- 🌱 I’m currently learning ASP.NET, React, and Test Driven Development
 - 👯 I’m looking to collaborate on nodejs, electron, vue, react, C# .NET projects
-- 🤔 I’m looking to level up my design skills with UML, and write better documentation
-- 💬 Ask me about .NET C#, nodejs, javascript, react, vue, Unity3D, C++, Cocos2D-x
+- 🤔 I’m looking to level up my design skills and technical documentation skill
+- 💬 Ask me about .NET C#, javascript, nodejs, react, vue, Unity3D, C++, Cocos2D-x
 - 📫 How to reach me: twitter
-- 😄 Pronouns: ours
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: it once worked on my machine
 
